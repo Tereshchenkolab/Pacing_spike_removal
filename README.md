@@ -6,10 +6,10 @@ Semi-automated algorithm for Pacing artifacts detection and removal on ECG
   - Test file 
   
 ### Authors
-Kazi Haq, PhD <haqk@ohsu.edu> 
-Neeraj Javadekar
-Larisa Tereshchenko, MD, PhD, <tereshch@ohsu.edu>
-Last update: January 20, 2021
+- Kazi Haq, PhD <haqk@ohsu.edu> 
+- Neeraj Javadekar
+- Larisa Tereshchenko, MD, PhD, <tereshch@ohsu.edu>
+- Last update: January 20, 2021
   
 ### MATLAB Code
 See .m file in the repository for calculation. Test file is provided (.mat) for algorithm testing.
