@@ -1,8 +1,8 @@
 # Pacing_spike_removal
-Pacing spike removal on ECG
+Semi-automated algorithm for Pacing artifacts detection and removal on ECG
 ## Table of Content
   - MATLAB Code
-  - MATLAB Code 
+  - STATA Code 
   - Test file 
   
 ### Authors
