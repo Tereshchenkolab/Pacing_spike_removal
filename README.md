@@ -12,11 +12,11 @@ Semi-automated algorithm for Pacing artifacts detection and removal on ECG
 - Last update: January 20, 2021
   
 ### MATLAB Code
-See .m file in the repository for calculation. Test file is provided (.mat) for algorithm testing.
+See .m file in the repository for calculation. Test file (10000301.mat) is provided (.mat) for algorithm testing.
 
 
 ### Test files
-One test file (.mat) is provided for testing. Sampling rate 500 Hz. Amplitude resolution 1 µV.
+One test file (10000301.mat) is provided for testing. Sampling rate 500 Hz. Amplitude resolution 1 µV.
 
 ### STATA code for statistical analysis
 See STATA .do file. We used the kappa-statistic measure of interrater agreement for two independent raters. Nonparametric receiver operating characteristic (ROC) analysis with a rating and discrete classification data was performed to calculate the area under the ROC curve (ROC AUC) and measure the automated pacing artifact detection's sensitivity and specificity.
