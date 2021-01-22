@@ -12,8 +12,10 @@ Semi-automated algorithm for Pacing artifacts detection and removal on ECG
 - Last update: January 20, 2021
   
 ### MATLAB Code
-See .m file in the repository for calculation. Test file (10000301.mat) is provided (.mat) for algorithm testing.
+See removespikegui.m and removespikegui.fig file in the repository to run the GUI to detect and remove pacing spike artifact. Please read the "Manual for pacing spike removal GUI.pdf" for the details on how to use this interface. Test file (10000301.mat) is provided (.mat) for algorithm testing.
 
+### Manual for Pacing Spike Removal GUI.pdf
+Use this guide to know how to use this interface. The guide also provides details of the threshold values to be used with an example. 
 
 ### Test files
 One test file (10000301.mat) is provided for testing. Sampling rate 500 Hz. Amplitude resolution 1 µV.
