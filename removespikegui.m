@@ -810,3 +810,11 @@ function plot_2_ButtonDownFcn(hObject, eventdata, handles)
 % hObject    handle to plot_2 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
+
+%=============================================================
+%code used by Kazi Haq for baseline wander removal:
+    for jj=1:12
+        [wt,f]=cwt(ECG12Lead_RDC(:,jj),500);
+        ECG12Lead_bwr(:,jj)=icwt(wt,f,[0.5 f(1)]);
+    End
+
