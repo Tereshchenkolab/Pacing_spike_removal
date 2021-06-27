@@ -24,4 +24,4 @@ One test file (10000301.mat) is provided for testing. Sampling rate 500 Hz. Ampl
 See STATA .do file. We used the kappa-statistic measure of interrater agreement for two independent raters. Nonparametric receiver operating characteristic (ROC) analysis with a rating and discrete classification data was performed to calculate the area under the ROC curve (ROC AUC) and measure the automated pacing artifact detection's sensitivity and specificity.
 
 ### Manuscripts to reference:
-Kazi T. Haq, Neeraj Javadekar, Larisa G. Tereshchenko. Detection and removal of pacing artifacts prior to automated analysis of 12-lead ECG. medRxiv 2021.01.21.21250278; doi: https://doi.org/10.1101/2021.01.21.21250278
+Haq KT, Javadekar N, Tereshchenko LG. Detection and removal of pacing artifacts prior to automated analysis of 12-lead ECG. Comput Biol Med. 2021 Jun;133:104396. doi: 10.1016/j.compbiomed.2021.104396. Epub 2021 Apr 19. PubMed PMID: 33872969; PubMed Central PMCID: PMC8169623
